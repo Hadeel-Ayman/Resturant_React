@@ -1,0 +1,6 @@
+.mainSection {
+    background-image: url('../../images/background.png');
+    height: auto;
+    background-size: cover;
+    background-color: black;
+}

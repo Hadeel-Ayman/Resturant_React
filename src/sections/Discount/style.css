@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Roboto:wght@400;700&display=swap');
+.discountDiv{
+    background-color: #101418B2;
+
+}
+.imgs{
+    width: 428px;
+    height: 428px;
+    transform: translateY(-10%);
+}
+.discountDiv5{
+    height:  328px;
+    display: flex;
+}
+.txt{
+    color: #fff;
+    font-size: 36px;
+    font-family: 'Dancing Script', cursive;
+    margin-top: 39px;
+}
+.off{
+    color: #FFCE6D;
+    font-size: 32px;
+    margin-top: 40px;
+}

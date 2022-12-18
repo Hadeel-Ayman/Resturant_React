@@ -1,0 +1,11 @@
+.Homecontainer {
+    background-image: url('../../images/Opening1.png');
+    height: 804px;
+    width: 100%;
+}
+
+.divOpacity {
+    height: 804px;
+    width: 100%;
+    background-image: linear-gradient(to bottom, rgba(16, 20, 24, 0.5) 0%, rgba(16, 20, 24, 1) 100%);
+}

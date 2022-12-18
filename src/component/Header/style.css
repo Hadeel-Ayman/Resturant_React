@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+header {
+    background-color: #101418;
+    width: 988px;
+    height: 76px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    transform: translateY(131px);
+    margin: auto;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.img {
+    width: 51px;
+    height: 51px;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul li {
+    margin: 0 30px;
+}
+
+ul a li {
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+
+.bookBtn {
+    width: 272px;
+    height: 76px;
+    background-color: #A08040;
+    outline: none;
+    border: none;
+    color: #fff;
+    font-size: 21px;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+}
+
+.bookBtn::after {
+    content: '';
+    height: 2px;
+    width: 35px;
+    background-color: #fff;
+    position: absolute;
+    margin-top: 12px;
+    margin-left: 10px;
+}
+
+.bookBtn::before {
+    content: '';
+    height: 2px;
+    width: 35px;
+    background-color: #fff;
+    position: absolute;
+    margin-top: 12px;
+    margin-left: -45px;
+}
