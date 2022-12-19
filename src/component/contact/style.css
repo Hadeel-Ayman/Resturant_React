@@ -1,0 +1,81 @@
+.gridDivs {
+    display: grid;
+    color: #fff;
+    padding: 88px 200px;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.dispalyFlex {
+    display: flex;
+    gap: 10px;
+}
+
+.AllFlex {
+    display: flex;
+    margin-bottom: 10px;
+    flex-direction: column;
+}
+
+.imge {
+    width: 79px;
+    margin-top: -20px;
+    height: 76px;
+}
+
+.txtss {
+    font-size: 20px;
+}
+
+.pp {
+    color: #fff;
+    font-weight: 400;
+    text-align: left;
+}
+
+.menu {
+    display: flex;
+    margin-top: 30px;
+    transform: translateX(30%);
+    flex-direction: column;
+    line-height: 30px;
+    align-items: flex-start;
+}
+
+.menu li {
+    list-style-type: disc;
+    text-align: left;
+}
+
+.menu2 li {
+    list-style: none;
+}
+
+.ff {
+    display: flex;
+    margin-top: 10px;
+    align-items: center;
+}
+
+.imj {
+    width: 24px;
+    margin-left: 20px;
+    height: 24px;
+}
+
+.flexIcons {
+    display: flex;
+    margin-top: 28px;
+    align-items: flex-start;
+}
+
+.iconss {
+    width: 32px;
+    height: 32px;
+    margin: 0 5px;
+}
+
+.divP {
+    text-align: left;
+    margin-top: 29px;
+    line-height: 24px;
+}

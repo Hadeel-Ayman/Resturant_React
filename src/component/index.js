@@ -9,4 +9,5 @@ import Icon from './icons/icon';
 import Button from './Button/Button';
 import IconReviewes from './iconReviews/IconReviewes';
 import CardBlogs from './cardBlogs/CardBlogs';
-export { CardBlogs,IconReviewes,Icon,Button, MenuItems, Header, Title, HeadTitle, Card, Page, SubheadTitle }
+import ContactItem from './contact/ContactItem';
+export { ContactItem,CardBlogs,IconReviewes,Icon,Button, MenuItems, Header, Title, HeadTitle, Card, Page, SubheadTitle }

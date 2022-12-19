@@ -1,0 +1,14 @@
+.Subscribe{
+    color: #fff;
+}
+.mailFlex{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.divFlexInput{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 21px;
+}

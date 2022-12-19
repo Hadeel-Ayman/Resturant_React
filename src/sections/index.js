@@ -8,4 +8,9 @@ import Ingredients from "./ingredients/ingredients";
 import IconsSection from "./iconSection/iconsSection";
 import ReviewsSection from "./ReviewsSection/ReviewsSection";
 import BlogsSection from "./BlogsSection/BlogsSection";
-export { BlogsSection,ReviewsSection,IconsSection,Ingredients,Discount,MenuSection,HomeSection, SpecialSection, AboutSection, MainContainer }
+import Contact from "./Contact/Contact";
+import SubscribeSection from "./subscribeSection/subscribeSection";
+import Footer from "./footer";
+
+
+export { Footer,SubscribeSection, Contact, BlogsSection, ReviewsSection, IconsSection, Ingredients, Discount, MenuSection, HomeSection, SpecialSection, AboutSection, MainContainer }
