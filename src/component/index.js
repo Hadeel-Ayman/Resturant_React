@@ -7,4 +7,6 @@ import MenuItems from './menuItems/MenuItems';
 import Page from './page/page';
 import Icon from './icons/icon';
 import Button from './Button/Button';
-export { Icon,Button, MenuItems, Header, Title, HeadTitle, Card, Page, SubheadTitle }
+import IconReviewes from './iconReviews/IconReviewes';
+import CardBlogs from './cardBlogs/CardBlogs';
+export { CardBlogs,IconReviewes,Icon,Button, MenuItems, Header, Title, HeadTitle, Card, Page, SubheadTitle }

@@ -6,4 +6,6 @@ import MenuSection from "./MenuSection/MenuSection";
 import Discount from "./Discount/Discount";
 import Ingredients from "./ingredients/ingredients";
 import IconsSection from "./iconSection/iconsSection";
-export { IconsSection,Ingredients,Discount,MenuSection,HomeSection, SpecialSection, AboutSection, MainContainer }
+import ReviewsSection from "./ReviewsSection/ReviewsSection";
+import BlogsSection from "./BlogsSection/BlogsSection";
+export { BlogsSection,ReviewsSection,IconsSection,Ingredients,Discount,MenuSection,HomeSection, SpecialSection, AboutSection, MainContainer }

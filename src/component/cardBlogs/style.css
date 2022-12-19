@@ -1,0 +1,40 @@
+.foodname{
+    font-size: 22px;
+    color: #fff;
+    font-weight: 700;
+    margin-top: 39px;
+    padding-left: 40px;
+}
+.AllDiv{
+    width: 411px;
+    position: relative;
+    height: 528px;
+    background-color: #101418B2;
+    text-align: left;
+}
+.par{
+    font-weight: 400;
+    padding-left: 40px;
+    color: #ffc;
+    font-size: 16px;
+    margin-top: 18px;
+    word-spacing: 3px;
+    line-height: 24px;
+}
+.link{
+    font-weight: 400;
+    color: #ffc;
+    margin-top: 24px;
+    padding-left: 40px;
+    font-size: 14px;
+    line-height: 24px;
+}
+.link::after{
+    content: '';
+    background-color: #FFCE6D;
+    width: 70px;
+    height: 2px;
+    top: 485px;
+    left: 39px;
+    position: absolute;
+}
